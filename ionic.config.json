@@ -1,0 +1,7 @@
+{
+  "name": "TutorialApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
